@@ -2,9 +2,9 @@
 layout: about
 ---
 
-[Ballmer peak](https://xkcd.com/323/)'s believer. I like to write software
+I like to develop software, eat pizza and gag on all the drag queens' extravaganza.\
+[Ballmer peak](https://xkcd.com/323/)'s believer.
 
 ### What's New
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+- This Github page! 
