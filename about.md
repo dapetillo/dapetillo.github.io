@@ -3,14 +3,15 @@ layout: about
 permalink: /about/
 title: A little bit about me.
 tags: about
-headshot: /images/headshot.jpg
+headshot: /images/profile.png
 ---
 
 ### Where I'm from
 
-🇦🇺 I was born and raised in the southeast suburbs of Victoria, Australia — a place almost perfecting the ['surbubia as giant nursery'](http://www.paulgraham.com/nerds.html) vision of urban development.
+I was born in Rome where I lived and studied most of my life. Time was good: I hung out with friends in [Trastevere](https://www.google.com/search?q=trastevere&tbm=isch), drank wine near the Colosseum, joined parties on weekends.
 
-I was raised by a tireless single mother, kept up good grades, and played way too much Call of Duty. I never wanted to program computers, right up until around 23 years old when programming computers became all I wanted to do.
+In 2014 I joined the [Erasmus+ program](https://erasmus-plus.ec.europa.eu/) and moved to Germany during my master studies. I was supposed to stay 10 months, but life had other plans: since then I graduated in Physics, learned German and got some jobs with computers.
+
 ### What I do now
 
 Currently, I help build [**modal.com**](https://modal.com), a serverless cloud platform built for developers and data scientists sick of wrestling Kubernetes.

@@ -1,9 +1,9 @@
 # Site settings
-title: Jonathon Belotti [thundergolfer]
-author: Jonathon Belotti
+title: Daniele Petillo [dapetillo]
+author: Daniele Petillo
 description: "No hugs, some learning"
 baseurl: ""
-url: "https://thundergolfer.com"
+url: "http://dapetillo.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -26,10 +26,11 @@ extended_fonts: false
 enable_anchorjs: true
 
 # Social icons
-github_username: thundergolfer
+github_username: dapetillo
 stackoverflow_id:
-twitter_username: jonobelotti_io
+twitter_username:
 linkedin_username: jonathonbelotti
+mastodon_username: dapetillo
 
 text:
   pagination:

@@ -3,18 +3,19 @@ layout: default
 tags: home
 ---
 
-# 👋 Hi there, <br/> I'm Jonathon Belotti.
+# 🐧 Hi there, <br/> I'm Daniele Petillo.
 
-### I'm a software engineer with a focus on data & platform engineering.
+### I'm a data engineer with a focus on Big Data and software development.
 
-### Currently, I help build [Modal](https://modal.com/), a dream cloud platform for data & ML engineers.
+### Currently, I work for [dmTECH](https://www.dm-jobs.com/dmTECH/), IT-subsidiary of a big german drugstore chain, [dm-drogerie markt](https://www.dm.de/)
 
 <br>
 
-I can usually be found in a programming IDE or reading.
-I'm bullish on, and a big booster of:
+When I am not working, I am usually bouldering 🧗🏻‍♂️, reading or walking in parks.\
+I am a sucker for:
 
-- 🌿💚 [@bazelbuild](https://github.com/bazelbuild/) and generally using functional principles to keep things sane. (I've open-sourced a few tools for the Bazel ecosystem, see [/projects]({{ site.baseurl }}/projects))
+- Japanese animation, aka anime 🍙. An old favourite is [Mawaru-Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
+- [xkcd.com](https://xkcd.com/). It comes in handy if [you need to threaten a librarian](https://xkcd.com/280/)
 - Good old-fashioned books 📖. Two recent favourites are [_The Dispossessed_](https://www.goodreads.com/book/show/13651.The_Dispossessed) and [_Coders at Work_](https://www.goodreads.com/book/show/6713575-coders-at-work)
 - [Effective Altruism](https://www.vox.com/future-perfect/2019/12/6/20992100/peter-singer-effective-altruism-lives-you-can-save-animal-liberation). Helping, not harming. Doing, not having. Building, not consuming.
 
