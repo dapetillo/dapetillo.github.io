@@ -1,18 +1,18 @@
 ---
-title: books reviews
+title: essays
 layout: default
-tags: bookreviews
-permalink: /reviews/
+tags: essays
+permalink: /essays/
 ---
 
-{% assign reviews_count = site.reviews | size %}
+{% assign essays_count = site.essays | size %}
 
-<h1>Book Reviews 📚</h1>
+<h1>Essays 📝</h1>
 
 <div class="home">
-  {% if reviews_count > 0 %}
+  {% if essays_count > 0 %}
   <div class="posts">
-    {% for post in site.reviews reversed %}
+    {% for post in site.essays reversed %}
     <div class="post py3">
       <p class="post-meta">{{ post.date | date: site.date_format }}</p>
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"

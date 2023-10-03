@@ -29,7 +29,7 @@ enable_anchorjs: true
 github_username: dapetillo
 stackoverflow_id:
 twitter_username:
-linkedin_username: jonathonbelotti
+linkedin_username: danpetillo
 mastodon_username: dapetillo
 
 text:
@@ -61,7 +61,7 @@ exclude: [vendor]
 
 collections_dir: collections
 collections:
-  reviews:
+  essays:
     output: true
   portfolio:
     output: true
