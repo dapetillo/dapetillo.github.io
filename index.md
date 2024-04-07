@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-# 🐧 Hi there, <br/> I'm Daniele Petillo.
+# 🐧 Hi there, <br/> I'm Daniele!
 
 ### I'm a data engineer with a focus on Big Data and software development.
 
@@ -11,12 +11,12 @@ tags: home
 
 <br>
 
-When I am not working, I am usually bouldering 🧗🏻‍♂️, reading or walking in parks.\
-I am a sucker for:
+When I am not working, I am usually training 🏃, reading or walking in parks.\
+Some things I enjoy:
 
-- Japanese animation, aka anime 🍙. An old favourite is [Mawaru-Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
-- [xkcd.com](https://xkcd.com/). It comes in handy if [you need to intimidate a librarian](https://xkcd.com/280/)
-- Philosophy and, in general, knowlegde 💭. I also like to write [/essays](http://dapetillo.github.io/essays) on topics I reflect on
+- Japanese animation 🍙. An old favourite is [Mawaru-Penguindrum](https://myanimelist.net/anime/10721/Mawaru_Penguindrum)
+- [xkcd.com](https://xkcd.com/). Do you know [how a wing produces lift?](https://xkcd.com/2678/)
+- Philosophy and, in general, knowlegde 💭. Sometimes I write [/essays](http://dapetillo.github.io/essays) on topics I reflect (too much) on
 
 <br>
 

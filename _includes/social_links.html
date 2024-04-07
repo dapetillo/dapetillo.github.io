@@ -11,7 +11,7 @@
     {% endif %}
     <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-rss"></i></a>
     {% if site.mastodon_username %}
-      <a class="fab fa-mastodon" href="https://fosstodon.org/@{{ site.mastodon_username}}" target="_blank" rel="noopener noreferrer"></a>
+      <a class="fab fa-mastodon" href="https://fosstodon.org/@{{ site.mastodon_username}}" target="_blank" rel="me"></a>
     {% endif %}
     {% if site.twitter_username %}
       <a class="fab fa-twitter" href="https://twitter.com/{{ site.twitter_username }}"target="_blank" rel="noopener noreferrer"></a>
