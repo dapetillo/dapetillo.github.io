@@ -1,16 +1,16 @@
 # Site settings
-title: Jonathon Belotti [thundergolfer]
-author: Jonathon Belotti
+title: Daniele Petillo [dapetillo]
+author: Daniele Petillo
 description: "No hugs, some learning"
 baseurl: ""
-url: "https://thundergolfer.com"
+url: "http://dapetillo.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-113168316-1
+google_analytics: 
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -18,7 +18,7 @@ bing_verification:
 # Optional features
 show_related_posts: True
 show_post_footers: True
-show_subscribe_cta: True
+show_subscribe_cta: false
 show_social_icons: True
 ajaxify_contact_form: false
 enable_mathjax: false
@@ -26,10 +26,11 @@ extended_fonts: false
 enable_anchorjs: true
 
 # Social icons
-github_username: thundergolfer
+github_username: dapetillo
 stackoverflow_id:
-twitter_username: jonobelotti_io
-linkedin_username: jonathonbelotti
+twitter_username:
+linkedin_username: danpetillo
+mastodon_username: dapetillo
 
 text:
   pagination:
@@ -60,7 +61,7 @@ exclude: [vendor]
 
 collections_dir: collections
 collections:
-  reviews:
+  essays:
     output: true
   portfolio:
     output: true

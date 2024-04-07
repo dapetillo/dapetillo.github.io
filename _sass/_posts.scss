@@ -28,7 +28,7 @@
 .post-footer {
   @extend .italic;
 
-  margin-top: .75rem;
+  margin-top: 5.75rem;
   text-align: center;
 }
 
@@ -57,4 +57,21 @@
 
 .related-post-title {
   border-bottom: thin solid #f3f3f3;
+}
+
+a.footnote:before {   
+  content: "[";
+ }
+
+ 
+a.footnote:after {
+  content: "]";
+}
+
+div.footnotes ol li::marker {
+  font-size: .85rem;
+}
+
+div.footnotes p {
+  font-size: .85rem;
 }
