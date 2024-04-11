@@ -25,6 +25,11 @@
   font-weight: 300;
 }
 
+/*added by me to make stuff in posts bolder*/
+strong {
+  font-weight: 600;
+}
+
 .post-footer {
   @extend .italic;
 
