@@ -19,7 +19,7 @@ In November I started to work as a data engineer for [dmTECH](https://www.dm-job
 
 ### Where I'm at now
 
-🏙 Today, I live in Frankfurt. When I'm not working, you can find me in a bookshop or café with a book in my hand, or exercising at the (bouldering) gym.
+Today, I live in Frankfurt 🏙️. When I'm not working, you can find me in a bookshop or café with a book in my hand, or exercising at the (bouldering) gym.
 
 ### What I used to do
 
